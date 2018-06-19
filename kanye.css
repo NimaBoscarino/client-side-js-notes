@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Pablo'
+}
+
+.container {
+    vertical-align: center;
+    text-align: center;
+}
+
+.sound-list  img {
+    height: 200px;
+}
+
+img {
+    cursor: pointer;
+}
