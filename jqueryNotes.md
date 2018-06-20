@@ -1,4 +1,4 @@
-Some notes on jQuery
+W3D2 Breakout - jQuery
 ====================
 
 1. Why does it exist?
