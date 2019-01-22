@@ -1,5 +1,7 @@
 # W3D2 Client Side JS
 
+Repo: https://github.com/NimaBoscarino/client-side-js-notes
+
 Hop through the various branches in this repo to see the KanyeSounds.com demo be built up!
 
 Today we tackled 4 main things.
